@@ -1,4 +1,4 @@
 require 'sinatra'
 
-get '/' do
+get '/index.html' do
 end
