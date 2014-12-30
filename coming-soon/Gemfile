@@ -1,0 +1,12 @@
+source "https://rubygems.org"
+ruby "2.1.5"
+
+gem 'rake'
+gem 'sinatra'
+gem 'shotgun'
+gem 'haml'
+
+# Sass & Compass
+gem 'sass'
+gem 'compass'
+
